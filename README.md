@@ -12,15 +12,15 @@ Case Design:
 <img width="803" height="507" alt="image" src="https://github.com/user-attachments/assets/f55a0da7-e8d8-4a53-8d14-65d98110a5b5" />
 
 BOM:
-4x Cherry MX keyboard switch
-1x XIAO RP2040 
-2x SK6812MINI-E LED
-4x Blank DSA keycaps
-4x M3x16mm screws
-4x M3x5mx4mm heatset inserts
+ - 4x Cherry MX keyboard switch
+ - 1x XIAO RP2040 
+ - 2x SK6812MINI-E LED
+ - 4x Blank DSA keycaps
+ - 4x M3x16mm screws
+ - 4x M3x5mx4mm heatset inserts
 
 Custom:
-case lid.stl
-case base.stl
-KMK Firmware
+ - case lid.stl
+ - case base.stl
+ - KMK Firmware
 
