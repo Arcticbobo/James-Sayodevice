@@ -27,5 +27,5 @@ BOM:
 Custom:
  - case lid.stl
  - case base.stl
- - KMK Firmware
+ - KMK Firmware (I will finish adding code for display once I have hardware for troubleshooting purposes)
 
