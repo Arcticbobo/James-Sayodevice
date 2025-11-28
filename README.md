@@ -3,13 +3,17 @@ Repository containing files for a custom sayodevice
 I created this macropad to allow me to play osu! on the go, and become more efficient when Designing mechanisms for my vex V5 team.
 
 Overall design:
-<img width="959" height="642" alt="image" src="https://github.com/user-attachments/assets/bdf91bdf-e9f5-4315-b641-a4ef789c0d8f" />
+<img width="578" height="463" alt="image" src="https://github.com/user-attachments/assets/4c4b4e56-7b8a-4d21-8769-c3165ac6ec79" />
+
 Schematic for circuit:
-<img width="821" height="708" alt="image" src="https://github.com/user-attachments/assets/200e1c4d-70e0-4849-b6e9-554199f6f3f2" />
+<img width="964" height="755" alt="image" src="https://github.com/user-attachments/assets/155f5006-e129-460b-a723-632073827389" />
+
 PCB:
-<img width="971" height="722" alt="image" src="https://github.com/user-attachments/assets/d0e73d35-f11c-493a-8983-05468b9e2b3e" />
+<img width="1173" height="675" alt="image" src="https://github.com/user-attachments/assets/71fbba5d-3046-47c5-a464-606a2577318f" />
+
 Case Design:
-<img width="803" height="507" alt="image" src="https://github.com/user-attachments/assets/f55a0da7-e8d8-4a53-8d14-65d98110a5b5" />
+<img width="753" height="572" alt="image" src="https://github.com/user-attachments/assets/f33215ab-2234-42d3-bc61-98f007f3617b" />
+
 
 BOM:
  - 4x Cherry MX keyboard switch
@@ -18,6 +22,7 @@ BOM:
  - 4x Blank DSA keycaps
  - 4x M3x16mm screws
  - 4x M3x5mx4mm heatset inserts
+ - 1x 0.91 inch OLED display
 
 Custom:
  - case lid.stl
