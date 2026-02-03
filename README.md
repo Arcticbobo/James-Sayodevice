@@ -29,3 +29,7 @@ Custom:
  - case base.stl
  - KMK Firmware (I will finish adding code for display once I have hardware for troubleshooting purposes)
 
+Final Product
+![IMG_1826 (1)](https://github.com/user-attachments/assets/8e67820c-d487-40a0-9111-3a326fbc6c15)
+After some struggles, tweaking, tinkering, and testing, here is the final product!
+
